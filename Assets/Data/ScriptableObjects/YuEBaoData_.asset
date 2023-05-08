@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ba427ab01804e3181529e16f71151f1, type: 3}
+  m_Name: YuEBaoData_
+  m_EditorClassIdentifier: 
+  yuEBaoStats:
+    deposit: 0
+    amount: 100
+    todayProfit: 0
+    todayRate: 0
+    yesterdayProfit: 0
+    yesterdayRate: 0
+    avgProfit: 0
+    avgRate: 0
+    profit1: 0
+    profit2: 0
+    profit3: 0
+    profit4: 0
+    profit5: 0
+    profit6: 0
+    profit7: 0
+    rate1: 0
+    rate2: 0
+    rate3: 0
+    rate4: 0
+    rate5: 0
+    rate6: 0
+    rate7: 0
